@@ -9,6 +9,8 @@ sites:
     url: https://blog.maslian.com
   - name: Server Monitoring
     url: https://status.maslian.com
+  - name: Vercel 
+    url: https://pagestatus.vercel.app
 
 # status-website:
 #   # Add your custom domain name, or remove the `cname` line if you don't have a domain
